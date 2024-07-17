@@ -22,6 +22,9 @@
 		4CDC5C642C4774F20083F590 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4CDC5C672C4774F20083F590 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4CDC5C692C4774F20083F590 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4CDC5C6F2C4775730083F590 /* SwiftBasics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftBasics.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4CDC5C702C4778F30083F590 /* BasicTypes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BasicTypes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		4CDC5C712C477CF20083F590 /* VariablesvsConstants.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VariablesvsConstants.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,9 @@
 				4CDC5C5E2C4774EE0083F590 /* ST_SwiftBasicsApp.swift */,
 				4CDC5C602C4774EE0083F590 /* ST_SwiftBasicsDocument.swift */,
 				4CDC5C622C4774EE0083F590 /* ContentView.swift */,
+				4CDC5C6F2C4775730083F590 /* SwiftBasics.playground */,
+				4CDC5C702C4778F30083F590 /* BasicTypes.playground */,
+				4CDC5C712C477CF20083F590 /* VariablesvsConstants.playground */,
 				4CDC5C642C4774F20083F590 /* Assets.xcassets */,
 				4CDC5C692C4774F20083F590 /* Info.plist */,
 				4CDC5C662C4774F20083F590 /* Preview Content */,
